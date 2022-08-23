@@ -17,7 +17,7 @@ ReactDom.render(
             title={(Sdata[0].title)}
             sname={(Sdata[0].sname)}
             link={(Sdata[0].links)}
-            />
+        />
 
         <Card
             imgsrc={(Sdata[1].imgsrc)}

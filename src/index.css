@@ -1,5 +1,5 @@
 
-*{
+* {
     box-sizing: border-box;
     padding: 0;
     max-resolution: 0;
@@ -31,12 +31,12 @@
     background-color: #fff;
     width: 21.25%;
     border-radius: 12px;
-    box-shadow: 0px 13px 10px -7px rgba(0,0,0,0.1);
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
     float: left;
 }
 
 .card.hover {
-    box-shadow: 0px 30px 18px -8px rgba(0,0,0,0.1);
+    box-shadow: 0px 30px 18px -8px rgba(0, 0, 0, 0.1);
 }
 
 .card_img {
@@ -90,8 +90,8 @@ button {
 }
 
 @media (max-width: 768px) {
-    .card{
- float: none;
+    .card {
+        float: none;
         margin: 5%;
         width: 90%;
     }
